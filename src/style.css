@@ -1,0 +1,13 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-top: 50px;
+}
+#eightBallOutput {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    display: inline-block;
+    background-color: #fff;
+}
